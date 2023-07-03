@@ -6,6 +6,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-size: xx-large;
+    background-color: aqua;
   }
   
   header {
